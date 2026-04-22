@@ -1,6 +1,6 @@
 # Taller_Banderas_Java
 
-# 💻 Proyecto de Banderas y Matrices en Java
+# 💻 Mundial de Fútbol en consola
 
 ## 📌 Descripción
 
