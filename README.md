@@ -68,3 +68,7 @@ El proyecto incluye los siguientes ejercicios:
 * Documentación oficial de Java
 * Apuntes de clase
 * ChatGPT como guía de apoyo
+
+## 📚 Diapositivas
+
+* 
