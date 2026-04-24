@@ -71,4 +71,4 @@ El proyecto incluye los siguientes ejercicios:
 
 ## 📚 Diapositivas
 
-* https://canva.link/600eklapsmwk54f
+* https://canva.link/cxin4zrvwwlw5ss
