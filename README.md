@@ -59,7 +59,7 @@ El proyecto incluye los siguientes ejercicios:
 * Se utilizan **ciclos `for` anidados** para construir las figuras.
 * Es importante validar las dimensiones de la **matriz n x m**.
 * Los colores en consola pueden variar según la terminal utilizada.
-* La tabla de posiciones debe organizar correctamente **puntos, goles y equipos**.
+* La tabla de posiciones debe organizar correctamente **puntos, goles, equipos y tarjetas**.
 * El escalado de banderas debe conservar la proporción visual.
 
 ---
