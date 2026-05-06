@@ -50,7 +50,7 @@ El proyecto incluye los siguientes ejercicios:
 5. **Crear un fixture**
 6. **Generar código para tabla de posiciones**
 7. **Representación visual de banderas usando matrices**
-8. **Mostrar datos sobre los paises
+8. **Mostrar datos sobre los paises**
 
 ---
 
